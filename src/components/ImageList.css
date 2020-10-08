@@ -1,0 +1,10 @@
+.image-list {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 100vh;
+}
+
+.image-list img {
+  width: 250px;
+}
